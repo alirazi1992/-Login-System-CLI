@@ -26,20 +26,13 @@ A simple **login system** that demonstrates **exception handling, password hashi
 
 | 🔐 |
 |-----|
-| ![Screenshot](./Login.png) |
+| ![Screenshot](./Login.png)|
+
+
 
 | 🔐 |
 |-----|
 | ![Screenshot](./Login.png) |
-
-
-
-
-
-
-
-
-
 
 ----
 
