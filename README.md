@@ -26,7 +26,8 @@ A simple **login system** that demonstrates **exception handling, password hashi
 
 | 🔐 |
 |-----|
-| ![Screenshot](./login.png) |
+| ![Screenshot](./Login.png) |
+
 
 
 
