@@ -24,7 +24,7 @@ A simple **login system** that demonstrates **exception handling, password hashi
 
 ## 📸 Screenshots
 
-<img src="./Login.png" alt="Main Window" width="500"/>
+<img src="./Login .png" alt="Main Window" width="500"/>
 
 ----
 
